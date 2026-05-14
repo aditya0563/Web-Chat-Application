@@ -146,3 +146,4 @@ This project demonstrates:
 * Global state management using Redux Toolkit
 * REST API integration
 * Scalable MERN architecture
+ 
