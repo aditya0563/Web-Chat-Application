@@ -70,4 +70,3 @@ function Sidebar() {
 
 export default Sidebar;
 // adjust sidebar spacing
-// sidebar margin

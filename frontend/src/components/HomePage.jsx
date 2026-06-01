@@ -13,4 +13,3 @@ function HomePage() {
 
 export default HomePage;
 // fix alignment in header
-// add button
